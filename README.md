@@ -1,7 +1,7 @@
 ## Bash Script
 
 ## Author
- [virginiah Periah](https://github.com/virginiah894)
+ [Virginiah Periah](https://github.com/virginiah894)
 
 ### How to use
 
@@ -11,4 +11,5 @@
 4. To make it executable 
     `chmod a+x`
 
-
+### Bugs
+ There are no known bags
